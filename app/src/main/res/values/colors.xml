@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">@color/colorBrownAlpha</color>
+    <color name="colorPrimaryDark">@color/colorBrown</color>
+    <color name="colorAccent">@color/colorOrange</color>
+    <color name="colorBackground">@color/colorOrangeLight</color>
+    <color name="colorForground">@color/colorWhite</color>
+
+    <color name="colorBrownAlpha">#aa795548</color>
+    <color name="colorBrown">#795548</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorGray">#999999</color>
+    <color name="colorOrangeLight">@android:color/holo_orange_light</color>
+    <color name="colorOrange">#ff8800</color>
 </resources>
