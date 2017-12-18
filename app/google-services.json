@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1071016821907",
+    "firebase_url": "https://cheezling-ef470.firebaseio.com",
+    "project_id": "cheezling-ef470",
+    "storage_bucket": "cheezling-ef470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071016821907:android:4ca6072a1b83474f",
+        "android_client_info": {
+          "package_name": "cf.g2utools.cheezling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071016821907-qafk0hve5ree4bd2si5ont788ga13m8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cf.g2utools.cheezling",
+            "certificate_hash": "06ae5414d46870fc4ae0cec6a45c89ebe0d3f05d"
+          }
+        },
+        {
+          "client_id": "1071016821907-jljodpj4kc3dmktoi1p7o1bup49ftq9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdJhuX_u5cnlk_eYTjElW7i0HPBLBlwF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071016821907-jljodpj4kc3dmktoi1p7o1bup49ftq9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
