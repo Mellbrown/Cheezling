@@ -2,8 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="cf.g2utools.cheezling">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
+        android:hardwareAccelerated="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
@@ -16,15 +19,26 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".lab.Mold_Test" android:label="몰드 월드 테스트">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-
+        <activity
+            android:name=".activity.scen_start.StartPage"
+            android:label=". 치즐링 .." />
+        <activity
+            android:name=".lab.LabMenu"
+            android:label="테스트 메뉴" />
+        <activity android:name=".lab.wrap_Activities.LabZoomLayout" />
+        <activity
+            android:name=".activity.scen_start.SignUpPage"
+            android:label="계정 생성" />
+        <activity android:name=".lab.wrap_Activities.LabEditGlobalTages" />
+        <activity android:name=".activity.ThreadViewer" />
+        <activity android:name=".lab.wrap_Activities.LabSmallTalkOneSliding" />
+        <activity android:name=".activity.scen_start.InputYourHasTag" />
+        <activity android:name=".activity.MainPages.NewSpeed" android:label="뉴스피드"/>
+        <activity android:name=".activity.scen_start.SignUpComplete" />
+        <activity android:name=".activity.MainPages.HomePage" android:label="홈페이지"/>
+        <activity android:name=".activity.MainPages.Notification" android:label="알림"/>
+        <activity android:name=".activity.MainPages.SettingPage" android:label="설정"/>
+        <activity android:name=".activity.MainPages.NewPost" android:label="글쓰기"></activity>
     </application>
 
-    <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>

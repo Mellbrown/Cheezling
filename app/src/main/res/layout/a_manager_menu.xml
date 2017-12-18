@@ -4,6 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="cf.g2utools.cheezling.lab.Mold_Test">
+    tools:context="cf.g2utools.cheezling.lab.LabMenu">
 
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        tools:listitem="@layout/i_simple_button" />
 </android.support.constraint.ConstraintLayout>

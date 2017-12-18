@@ -1,3 +1,80 @@
 <resources>
-    <string name="app_name">Cheezling</string>
+    <string name="app_name">.치즐링..</string>
+    <string name="title_activity_board_content">BoardContent</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="start_page_intro">
+        이른 노을지던\n
+        그 하늘 아래\n
+        가로수 길을 따라\n
+        걷던 우리들\n
+        많은 사람들과 발끝을\n
+        부딪치며 걷고있어\n
+        아무 생각 없이\n
+        앞만 봤었고\n
+        뒤에선 누군가가\n
+        쫓아온 듯 해\n
+        이 많은 사람들은 모두\n
+        어디로 가고 있는 걸까\n
+        어떻게 생각해\n
+        어떻게 생각해 넌\n
+        어떻게 생각해\n
+        어떻게 생각해 넌\n
+        난 늘 생각해\n
+        난 늘 생각해야 해\n
+        이제 그만 지겨워\n
+        어떻게 생각해\n
+        어떻게 생각해 넌\n
+        어떻게 생각해\n
+        이렇게 생각해 난\n
+        이제 그만 지겨워\n
+        그 날 넌 기억하니\n
+        예전에 우리 꿈을 나누던\n
+        그 밤의 놀이터를\n
+        마냥 하늘만 보며\n
+        결국 잘될 거라고 얘기했지\n
+        어떻게 생각해\n
+        어떻게 생각해 넌\n
+        어떻게 생각해\n
+        어떻게 생각해 넌\n
+        난 늘 생각해\n
+        난 늘 생각해야 해\n
+        이제 그만 지겨워\n
+        어떻게 생각해\n
+        어떻게 생각해 넌\n
+        어떻게 생각해\n
+        이렇게 생각해 난\n
+        이제 그만 지겨워\n
+        바보 같던 웃음의\n
+        순수했던 날 우리가\n
+        오늘도 내일도\n
+        매일이 그리워\n
+        어떻게 생각해\n
+        어떻게 생각해 넌\n
+        어떻게 생각해\n
+        어떻게 생각해 넌\n
+        난 늘 생각해\n
+        난 늘 생각해야 해\n
+        이제 그만 지겨워\n
+        어떻게 생각해\n
+        어떻게 생각해 넌\n
+        어떻게 생각해\n
+        이렇게 생각해 난\n
+        이제 그만 지겨워
+    </string>
+
+    <string name="create_account">
+        익명 게시판 앱 치즐링\n
+        계정 생성 중입니다 . . .\n
+        익명이지만 계정은 생성할 필요가 있어요\n
+        \n
+        .  .  .  .\n
+        \n
+        계정 생성이 완료 되었습니다.
+    </string>
+    <string name="title_activity_nabition_action_draw_test">NabitionActionDrawTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 </resources>
